@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sun Sep 13 11:22:57 EEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0174-868f-5f37-0000074692f0 
+on database directory memory:/Users/Lucky/Dropbox/programming/StoreAPI/67642be4-8b2e-4c3d-8373-14d9481d90ce with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/Users/Lucky/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15-ea+4-63
+user.dir=/Users/Lucky/Dropbox/programming/StoreAPI
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Sep 13 11:25:28 EEST 2020:
+Shutting down instance a816c00e-0174-868f-5f37-0000074692f0 on database directory memory:/Users/Lucky/Dropbox/programming/StoreAPI/67642be4-8b2e-4c3d-8373-14d9481d90ce with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
